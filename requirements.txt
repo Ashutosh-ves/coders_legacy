@@ -1,0 +1,8 @@
+Before running this application, ensure you have:
+
+1. **Python 3.7+** installed
+2. **MySQL Server** installed and running
+3. **MySQL Connector for Python**:
+   ```bash
+   pip install mysql-connector-python
+   ```
