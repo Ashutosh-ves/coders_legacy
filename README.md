@@ -108,8 +108,8 @@ CREATE TABLE users (
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [https://github.com/Ashutosh-Ves/coders-legacy.git]
-cd coders-legacy-dashboard
+git clone https://github.com/Ashutosh-Ves/coders-legacy.git
+cd coders-legacy
 ```
 
 ### Step 2: Configure Database Credentials
